@@ -17,7 +17,7 @@ public class p_no_2525 {
 //	    	System.out.println("hrhr : "+hr);
 	    	mn = A%60;
 //	    	System.out.println("mn : "+mn);
-	    	System.out.println(hr+" "+mn);
+	    	System.out.println(hr + " " + mn);
 	    }
 }
 
