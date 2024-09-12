@@ -1,6 +1,5 @@
 package bakjoon_;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class p_no_10807 {
