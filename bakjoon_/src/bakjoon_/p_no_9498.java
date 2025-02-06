@@ -1,5 +1,4 @@
 package bakjoon_;
-
 import java.util.Scanner;
 
 public class p_no_9498 {
