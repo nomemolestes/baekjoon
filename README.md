@@ -1,0 +1,3 @@
+100joon...
+"Until the day I take first place on Baekjoon."
+"Hasta el día en que gane el primer lugar en Baekjoon."
